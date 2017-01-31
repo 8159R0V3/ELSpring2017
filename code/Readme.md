@@ -1,2 +1,2 @@
 # Code Directory. 
-All your code should go here. Make sure files are named as explicitly as possible.
+Coding for projecting will go here. make sure to name programs properly
